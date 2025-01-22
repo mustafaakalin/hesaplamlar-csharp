@@ -1,0 +1,7 @@
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\bin\Debug\hesaplamlar.exe.config
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\bin\Debug\hesaplamlar.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\bin\Debug\hesaplamlar.pdb
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\obj\Debug\hesaplamlar.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\obj\Debug\hesaplamlar.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\obj\Debug\hesaplamlar.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplamlar\obj\Debug\hesaplamlar.pdb

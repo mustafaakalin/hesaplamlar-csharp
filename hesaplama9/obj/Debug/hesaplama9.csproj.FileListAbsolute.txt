@@ -1,0 +1,7 @@
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\bin\Debug\hesaplama9.exe.config
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\bin\Debug\hesaplama9.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\bin\Debug\hesaplama9.pdb
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\obj\Debug\hesaplama9.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\obj\Debug\hesaplama9.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\obj\Debug\hesaplama9.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama9\obj\Debug\hesaplama9.pdb

@@ -1,0 +1,7 @@
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\bin\Debug\hesaplama14_foreach.exe.config
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\bin\Debug\hesaplama14_foreach.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\bin\Debug\hesaplama14_foreach.pdb
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\obj\Debug\hesaplama14_foreach.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\obj\Debug\hesaplama14_foreach.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\obj\Debug\hesaplama14_foreach.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesaplama14_foreach\obj\Debug\hesaplama14_foreach.pdb

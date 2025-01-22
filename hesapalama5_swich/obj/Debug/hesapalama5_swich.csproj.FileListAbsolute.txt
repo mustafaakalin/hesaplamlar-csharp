@@ -1,0 +1,7 @@
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\bin\Debug\hesapalama5_swich.exe.config
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\bin\Debug\hesapalama5_swich.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\bin\Debug\hesapalama5_swich.pdb
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\obj\Debug\hesapalama5_swich.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\obj\Debug\hesapalama5_swich.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\obj\Debug\hesapalama5_swich.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\hesaplamlar\hesapalama5_swich\obj\Debug\hesapalama5_swich.pdb
